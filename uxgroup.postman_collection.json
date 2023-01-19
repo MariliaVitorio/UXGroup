@@ -1,0 +1,25 @@
+{
+	"info": {
+		"_postman_id": "9ee310f4-05e3-4512-941a-268cce83f263",
+		"name": "uxgroup",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Feriados Nacionais",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Feriados Estaduais",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
